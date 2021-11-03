@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey 🍜
 
-<!--
-**strellic/strellic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Strellic, real name Bryce, and I’m a student at UC Berkeley learning more about computer science, full-stack dev, software engineering, and cyber-security.
 
-Here are some ideas to get you started:
+In my free time, I participate in or help create information-security capture the flags (CTFs) with [Crusaders of Rust](https://cor.team) & [DiceGang](https://dicega.ng), research browser security, code random projects (some of which you can see here), or play random video games with friends. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check my blog out [here](https://blog.brycec.me), you'll find random stuff like my writeups or solutions to challenges there.
+
+I also helped host the infrastructure and wrote web challenges for [corCTF 2021](https://ctf.cor.team), check out the challenge repo [here](https://github.com/Crusaders-of-Rust/corCTF-2021-public-challenge-archive/)!
+
+Hit me up at Strellic#2507 if you have any questions or want to talk.
+
+Cya ✌
