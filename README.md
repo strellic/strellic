@@ -6,7 +6,7 @@ In my free time, I participate in or help create information-security capture th
 
 Check my blog out [here](https://blog.brycec.me), you'll find random stuff like my writeups or solutions to challenges there.
 
-I also helped host the infrastructure and wrote web challenges for [corCTF 2021](https://ctf.cor.team), check out the challenge repo [here](https://github.com/Crusaders-of-Rust/corCTF-2021-public-challenge-archive/)!
+I also helped host the infrastructure and wrote web challenges for [corCTF 2021](https://ctf.cor.team). Check out all the challenges I've made public [here](https://github.com/strellic/my-ctf-challenges)!
 
 Hit me up at Strellic#2507 if you have any questions or want to talk.
 
